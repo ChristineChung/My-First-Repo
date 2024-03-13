@@ -7,3 +7,5 @@ My dogs name is Majesty.
 new change
 
 Additional change
+
+final change
